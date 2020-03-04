@@ -1,9 +1,7 @@
 package fr.uvsq.exercice5;
 
 import java.lang.invoke.MethodHandles;
-import java.time.LocalDateTime;
 
-import org.apache.log4j.Logger;
 import org.slf4j.LoggerFactory;
 
 

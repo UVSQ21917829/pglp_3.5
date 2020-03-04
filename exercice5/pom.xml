@@ -26,7 +26,7 @@
             <configuration>
                 <archive>
                     <manifest>
-                        <mainClass>fr.uvsq.conversion_json_csv.App</mainClass>
+                        <mainClass>fr.uvsq.exercice5.App</mainClass>
                     </manifest>
                 </archive>
             </configuration>
