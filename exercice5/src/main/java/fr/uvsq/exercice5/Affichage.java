@@ -1,6 +1,6 @@
 package fr.uvsq.exercice5;
 
 public interface Affichage {
-	void afficher();
+	void afficher(String chaine);
 
 }

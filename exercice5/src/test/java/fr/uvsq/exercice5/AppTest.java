@@ -8,13 +8,11 @@ import org.junit.Test;
 public class AppTest 
 
 {
-    /**
-     * Create the test case
-     *
-     * @param testName name of the test case
-     */
+    UseClassMetier metier ;
    @Test
     public void testApp()
     {
+	   metier=new UseClassMetier(new Aaffichage());
+	   metier.intruction();
     }
 }
